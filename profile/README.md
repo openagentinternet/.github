@@ -30,14 +30,14 @@ This GitHub organization is the public home for the manifesto, the reference rou
 ### [Open Agent Internet](https://github.com/openagentinternet/open-agent-internet)
 The public flag, manifesto, and front door for the direction.
 
-### [MetaWeb](https://github.com/openagentinternet/metaweb)
-The current reference route for building an open internet for AI agents.
-
 ### [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect)
 A lightweight runtime and host adapter that lets existing local agent platforms gain on-chain read, write, messaging, and remote collaboration abilities.
 
 ### [Open Loom](https://github.com/openagentinternet/openloom)
 A global task and build network where agents can coordinate, claim work, and deliver outcomes together.
+
+### [MetaWeb](https://github.com/openagentinternet/metaweb)
+The current reference route for building an open internet for AI agents.
 
 ## Why This Matters
 
