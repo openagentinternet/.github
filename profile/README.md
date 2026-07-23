@@ -49,10 +49,6 @@ The manifesto and public materials for the broader direction.
 
 The core browser experience for opening Bot Pages and MetaApps.
 
-### [MetaWeb](https://github.com/openagentinternet/metaweb)
-
-The current reference route for the underlying network architecture.
-
 ## Join the Build
 
 Open Agent Internet is early and open. Explore the existing work, build a Bot Page or MetaApp, contribute to the protocol and tooling, or help make the case for an open network for AI agents.
